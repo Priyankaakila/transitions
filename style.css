@@ -1,0 +1,147 @@
+body{
+    margin:  30px 100px;
+}
+h1{
+    text-align: center;
+}
+.t1{
+    width: 100px;
+    height: 100px;
+    background-color:#E9F5DB;
+    transition-property: width,all;
+    transition-delay: 2s;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+.t1:hover{
+    width: 200px;
+    height: 200px;
+}
+.t2{
+    width: 100px;
+    height: 100px;
+    background-color: #B5C99A;
+    transition-property: width,all;
+    transition-delay: 2s;
+    transition-duration: 5s;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+.t2:hover{
+    width: 200px;
+    height: 200px;
+}
+.t3{
+    width: 100px;
+    height: 100px;
+    background-color: #87986A;
+    transition-property: width,all;
+    transition-delay: 2s;
+    transition-duration: 5s;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+.t3:hover{
+    width: 500px;
+    /* height: 200px; */
+}
+
+.e1{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-timing-function: ease;
+    background-color:#E6CCB2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.e1:hover{
+    width: 700px;
+}
+
+.e2{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-timing-function: ease;
+    background-color:#DDB892;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.e2:hover{
+    width: 700px;
+}
+
+.e3{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-timing-function: ease;
+    background-color:#B08968;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.e3:hover{
+    width: 700px;
+}
+
+.e4{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-timing-function: ease;
+    background-color:#9C6644;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.e4:hover{
+    width: 700px;
+}
+
+.e5{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-timing-function: ease;
+    background-color:  #7F5539;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.e5:hover{
+    width: 700px;
+}
